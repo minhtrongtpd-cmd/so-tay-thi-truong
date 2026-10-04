@@ -5,7 +5,7 @@ window.SITE = {
   name: "Sổ tay thị trường",
 
   // Tên của bạn (hiện ở trang Giới thiệu)
-  author: "[Tên của bạn]",
+  author: "Bạch Mã",
 
   // Màu nhấn của trang (mã màu). Gợi ý: "#B4412B" đỏ gạch, "#1F5FA8" xanh, "#1E6B52" xanh lá, "#8A5A00" nâu vàng
   accent: "#B4412B",
