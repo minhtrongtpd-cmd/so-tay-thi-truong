@@ -67,4 +67,4 @@ data/posts.js     toàn bộ bài viết (trang Soạn bài tự tạo)
 assets/           giao diện và mã chạy (không cần sửa)
 ```
 
-Bài mẫu tuần 40 trong posts.js chỉ là chữ giữ chỗ. Hãy mở nó trong trang Soạn bài và viết đè thành bài thật.
+Bài đầu tiên (tuần 40) là bài thật. Các bài sau, bấm Bài mới ở trang Soạn bài để viết.
