@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Soạn bài · Sổ tay thị trường</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" id="brand" href="index.html">Sổ tay thị trường<i>.</i></a>
+    <nav class="nav" aria-label="Điều hướng">
+      <span class="ed-badge">Soạn bài</span>
+      <a href="index.html">Xem trang</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap ed">
+
+  <div class="ed-toolbar">
+    <button type="button" class="btn" id="btn-new">Bài mới</button>
+    <select class="input" id="sel-edit" aria-label="Sửa bài đã đăng"></select>
+    <button type="button" class="btn" id="btn-folder">Nối với thư mục website</button>
+    <button type="button" class="btn btn-primary" id="btn-save">Lưu bài</button>
+    <a class="btn" id="lnk-view" href="index.html" target="_blank" rel="noopener" hidden>Xem bài trên trang</a>
+    <button type="button" class="btn btn-danger" id="btn-delete" hidden>Xóa bài này</button>
+  </div>
+  <p class="ed-folder" id="folder-note">Chưa nối thư mục: khi bấm Lưu bài, trình duyệt sẽ tải về file posts.js để bạn chép đè vào thư mục data.</p>
+  <p class="ed-status" id="status" role="status" aria-live="polite"></p>
+
+  <div class="ed-cols">
+
+    <form class="ed-form" id="form" autocomplete="off">
+
+      <section class="ed-block">
+        <h2 class="ed-h">1. Thông tin chung</h2>
+        <p class="ed-help">Chọn ngày thứ Hai đầu tuần, số tuần sẽ tự điền.</p>
+        <div class="ed-grid">
+          <div class="ed-field"><label for="f-start">Ngày đầu tuần (thứ Hai)</label><input class="input" type="date" id="f-start"></div>
+          <div class="ed-field"><label for="f-week">Tuần số</label><input class="input" type="number" id="f-week" min="1" max="53"></div>
+          <div class="ed-field"><label for="f-year">Năm</label><input class="input" type="number" id="f-year" min="2000" max="2100"></div>
+          <div class="ed-field"><label for="f-published">Ngày đăng</label><input class="input" type="date" id="f-published"></div>
+        </div>
+        <p class="ed-note" id="week-note"></p>
+
+        <div class="ed-field" style="margin-top:16px"><label for="f-title">Tiêu đề (một câu nêu luận điểm chính)</label><input class="input" type="text" id="f-title" placeholder="Ví dụ: Tuần này dòng tiền ưu tiên ..."></div>
+        <div class="ed-field"><label for="f-sapo">Sapo (2 câu tóm tắt)</label><textarea class="ed-text" id="f-sapo" rows="3"></textarea></div>
+        <div class="ed-field"><span class="ed-label" id="cats-label">Danh mục</span><div class="ed-checks" id="f-cats" role="group" aria-labelledby="cats-label"></div></div>
+      </section>
+
+      <section class="ed-block">
+        <h2 class="ed-h">2. Bảng giá cuối tuần</h2>
+        <p class="ed-help">Điền giá đóng cửa, biến động và nhận định ngắn. Dòng để trống sẽ không hiện.</p>
+        <div class="ed-rows" id="f-table"></div>
+        <button type="button" class="btn btn-small" id="btn-add-row">+ Thêm dòng</button>
+      </section>
+
+      <section class="ed-block">
+        <h2 class="ed-h">3. Nội dung các mục</h2>
+        <div class="ed-tip">
+          Cách viết nhanh: <strong>dòng trống</strong> = sang đoạn mới · dòng bắt đầu bằng <code>- </code> = gạch đầu dòng ·
+          <code>**chữ đậm**</code> · <code>*chữ nghiêng*</code> · <code>## Tiêu đề nhỏ</code> · <code>[chữ](https://...)</code> = liên kết.
+        </div>
+        <div id="f-sections"></div>
+        <button type="button" class="btn btn-small" id="btn-add-section">+ Thêm mục</button>
+      </section>
+
+      <section class="ed-block">
+        <h2 class="ed-h">4. Góc ngành thức ăn chăn nuôi</h2>
+        <p class="ed-help">Khối nổi bật cuối bài. Để trống nếu tuần này không cần.</p>
+        <div class="ed-field"><label for="f-tacn" class="ed-label">Gợi ý cho đội bán hàng</label><textarea class="ed-text" id="f-tacn" rows="4"></textarea></div>
+      </section>
+
+      <section class="ed-block">
+        <h2 class="ed-h">5. Đối chiếu và bài học</h2>
+        <p class="ed-help">Điền vào cuối tuần: nhận định đúng ở đâu, sai ở đâu, lần sau làm khác đi thế nào. Mở lại bài bằng ô "Sửa bài đã đăng" ở trên để bổ sung.</p>
+        <div class="ed-field"><label for="f-review" class="ed-label">Đối chiếu và bài học</label><textarea class="ed-text" id="f-review" rows="5"></textarea></div>
+      </section>
+
+    </form>
+
+    <aside class="ed-prev" aria-label="Xem trước bài viết">
+      <div class="ed-prev-label">Xem trước</div>
+      <div id="preview"></div>
+    </aside>
+
+  </div>
+</main>
+
+<script src="data/site.js"></script>
+<script src="data/posts.js"></script>
+<script src="assets/render.js"></script>
+<script src="assets/editor.js"></script>
+</body>
+</html>
