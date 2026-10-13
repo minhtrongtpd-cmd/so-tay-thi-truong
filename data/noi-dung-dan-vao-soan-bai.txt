@@ -1,0 +1,74 @@
+== THÔNG TIN CHUNG ==
+Ngày đầu tuần: 05/10/2026 (tuần 41, năm 2026)
+Ngày đăng: 13/10/2026
+Tiêu đề: Tuần 41: Lãi suất Mỹ cao nhất 24 năm, Bitcoin bị rút vốn, vàng hồi phục
+Sapo: Lợi suất trái phiếu Mỹ vượt 5,3% (cao nhất từ 2002) và đồng USD ở đỉnh 18 tháng, khiến các kênh rủi ro như Bitcoin chịu áp lực. Vàng hồi lên sau khi chạm đáy 2 tháng, còn ngô và lúa mì gần như đi ngang.
+Danh mục: Vàng · Bạc | Dầu | Bitcoin | Nông sản
+
+== BẢNG GIÁ (Tài sản | Giá đóng cửa | Biến động | Nhận định) ==
+Vàng (giao ngay) | ~4.190–4.210 USD/oz | +1,2% đến +1,7% | Hồi từ đáy 2 tháng; vẫn chịu áp lực từ lợi suất và USD
+Bạc (giao ngay) | ~60,8–61,1 USD/oz | Đi ngang | Chưa có hướng rõ
+Dầu WTI | ~89–91 USD/thùng | Đi ngang đến -2% | Biến động mạnh theo tin Hormuz
+Dầu Brent | ~101–104 USD/thùng | Đi ngang đến +2% | Các nguồn chênh nhau; tin Hormuz chưa kiểm chứng
+Bitcoin | ~82.000–84.000 USD | -4% đến -5% | ETF Mỹ rút ròng ~702 triệu USD; tâm lý thận trọng
+Ngô (CBOT) | ~5,00–5,02 USD/giạ | +0,5% | Ổn định; chờ xác nhận số liệu WASDE
+Khô đậu tương (CBOT) | ~365 USD/tấn ngắn | +4,6% | Hồi lại sau nhịp giảm mạnh tuần trước
+Lúa mì (CBOT) | ~6,90 USD/giạ | +0,6% | Nhích nhẹ do rủi ro Biển Đen
+VN-Index | ~1.733 điểm | -0,3% | Đi ngang, chịu áp lực từ lãi suất và USD thế giới
+
+== NỘI DUNG CÁC MỤC ==
+--- Mục 1: Bối cảnh vĩ mô
+Hiểu đơn giản: **lãi suất ở Mỹ đang rất cao**, nên tiền có xu hướng chảy vào đồng USD và trái phiếu Mỹ thay vì vàng, Bitcoin hay hàng hóa.
+
+- Lợi suất trái phiếu Mỹ 10 năm vượt **5,3%** giữa tuần, mức cao nhất từ năm 2002.
+- Chỉ số USD (DXY) chạm khoảng **102,5**, cao nhất 18 tháng, rồi hạ nhẹ về ~102,1–102,3.
+- Fed đã tăng lãi suất lên **3,75–4,00%** hồi tháng 9. Họp tiếp theo ngày 27–28/10; các thành viên Fed phát biểu trái chiều nên **chưa rõ** họ có tăng tiếp hay không.
+- Mốc cần theo dõi: số liệu lạm phát (CPI) tháng 9 của Mỹ công bố ngày **14/10**.
+
+*Chưa chắc:* xác suất Fed tăng lãi suất tháng 10 mỗi nguồn nói một khác (từ dưới 22% đến khoảng 54%), nên bài này không đưa con số.
+
+--- Mục 2: Chứng khoán Việt Nam
+VN-Index đóng cửa tuần ở khoảng **1.733 điểm**, giảm nhẹ khoảng **0,3%** so với 1.737,71 điểm của tuần trước, gần như đi ngang.
+
+Chưa có số liệu về dòng vốn khối ngoại và thanh khoản tuần này nên bài không nhận định thêm. Điều cần theo dõi: lãi suất và USD thế giới cao thường gây áp lực lên dòng vốn ngoại vào thị trường mới nổi, trong đó có Việt Nam. Đây là yếu tố cần theo dõi, không phải dự báo.
+
+--- Mục 3: Vàng, bạc, dầu
+- **Vàng:** giảm xuống đáy 2 tháng quanh 4.130–4.156 USD/oz (5–6/10), rồi hồi lên **~4.190–4.210 USD** cuối tuần, tăng khoảng **1,2–1,7%**. Lý do: lợi suất cao làm vàng kém hấp dẫn, nhưng nhu cầu trú ẩn vẫn còn.
+- **Bạc:** đi ngang quanh **60–61 USD/oz**.
+- **Dầu:** biến động mạnh vì tin căng thẳng ở eo biển Hormuz. WTI về đáy 88,28 USD (7/10) rồi hồi lên ~**89–91 USD**; Brent ~**101–104 USD**. Tin về các vụ tấn công tàu chở dầu **chỉ đến từ truyền thông Iran, chưa kiểm chứng độc lập**.
+
+Giá cuối tuần của vàng, bạc, dầu chênh nhẹ giữa các nguồn nên ghi theo khoảng giá.
+
+--- Mục 4: Bitcoin
+Bitcoin giảm khoảng **4–5%** trong tuần, về vùng **82.000–84.000 USD**, sau khi chạm ~87.177 USD hôm 2/10.
+
+Điểm đáng chú ý: các quỹ ETF Bitcoin tại Mỹ **rút ròng khoảng 702 triệu USD** trong 4 phiên 5–8/10, chấm dứt chuỗi 3 tuần liên tiếp hút tiền. Nói dễ hiểu: các nhà đầu tư lớn đang chốt lời, bớt rủi ro.
+
+*Lưu ý:* mức giảm là ước tính từ nhiều nguồn, không phải một con số chính thức.
+
+--- Mục 5: Nông sản: ngô, khô đậu tương, lúa mì
+- **Ngô:** ~**5,00–5,02 USD/giạ**, gần như đi ngang (+0,5%). Thu hoạch ở Mỹ chậm vì mưa nhưng tồn kho dự báo vẫn cao.
+- **Lúa mì:** ~**6,90 USD/giạ** (+0,6%), nhích lên do lo ngại an ninh tuyến xuất khẩu Biển Đen.
+- **Khô đậu tương:** ~**365 USD/tấn ngắn**, tăng khoảng **4,6%** so với 348,85 của tuần trước.
+
+Báo cáo cung cầu USDA (WASDE) ra ngày 9/10: giới phân tích dự báo tồn kho ngô Mỹ ~1,677 tỷ giạ. **Kết quả thực tế chưa xác nhận được**, nên chưa thể kết luận.
+
+--- Mục 6: Điều cần theo dõi tuần tới
+- CPI Mỹ tháng 9 (14/10): nếu lạm phát cao hơn kỳ vọng, lãi suất và USD có thể tiếp tục chịu áp lực; nếu thấp hơn, kịch bản có thể dịu đi.
+- Kết quả thực tế của báo cáo WASDE và xem khô đậu tương có giữ được đà hồi không.
+- Số liệu CPI/thương mại tháng 9 của Trung Quốc (khoảng 13–15/10).
+- Tin Hormuz từ nguồn độc lập.
+
+Đây là các điểm cần theo dõi, không phải dự báo giá. Kịch bản nào cũng có thể sai nếu số liệu hoặc tin địa chính trị bất ngờ.
+
+--- Mục 7: Nguồn số liệu và lưu ý
+Tổng hợp từ báo cáo kinh tế tuần 03–10/10/2026 của tác giả, dựa trên Fed, Bộ Tài chính Nhật, Eurostat, FXStreet, Kitco, USAGOLD, SoSoValue/Farside, DTN, Trading Economics và một số trang tin. **Độ tin cậy kỳ này thấp hơn bình thường** vì thiếu dữ liệu dòng tiền quỹ và thanh khoản Fed của đúng tuần. Chưa đối chiếu trực tiếp với nguồn gốc (CME, HOSE). Bài mang tính tham khảo, không phải khuyến nghị đầu tư.
+
+== GÓC NGÀNH THỨC ĂN CHĂN NUÔI ==
+- **Chi phí nguyên liệu:** ngô và lúa mì gần như đi ngang, nhưng khô đậu tương hồi khoảng 4,6%. Khô đậu tương là đạm chính trong khẩu phần, nên chi phí công thức có thể nhích lên nhẹ; kiểm tra giá nhập thực tế trước khi đổi giá bán. Mức chắc chắn: trung bình.
+- **Báo giá:** giữ nguyên bảng giá hiện tại, khô đậu tương hồi khoảng 4,6% nên chưa cam kết giá cố định dài hạn cho khách lớn khi chưa có kết quả WASDE.
+- **Tồn kho:** không cần gom thêm vì lo giá tăng; tồn kho Mỹ dự báo vẫn cao (nếu số liệu thực tế xác nhận). Mức chắc chắn: thấp, chờ xác nhận.
+- **Tỷ giá:** USD mạnh có thể làm giá nguyên liệu nhập khẩu tính bằng VND đắt hơn. Hỏi lại giá nhập thực tế và tỷ giá với nhà cung cấp trước khi báo giá. Chưa có số liệu USD/VND tuần này.
+- **Tư vấn khách:** giải thích ngắn gọn rằng giá thế giới đang ổn định, đừng hứa giảm giá.
+
+== ĐỐI CHIẾU: để trống ==
